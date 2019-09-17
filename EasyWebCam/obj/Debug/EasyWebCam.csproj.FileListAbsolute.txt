@@ -1,0 +1,15 @@
+c:\users\leowin\documents\visual studio 2013\Projects\EasyWebCam\EasyWebCam\bin\Debug\EasyWebCam.exe.config
+c:\users\leowin\documents\visual studio 2013\Projects\EasyWebCam\EasyWebCam\bin\Debug\EasyWebCam.exe
+c:\users\leowin\documents\visual studio 2013\Projects\EasyWebCam\EasyWebCam\bin\Debug\EasyWebCam.pdb
+c:\users\leowin\documents\visual studio 2013\Projects\EasyWebCam\EasyWebCam\bin\Debug\AForge.dll
+c:\users\leowin\documents\visual studio 2013\Projects\EasyWebCam\EasyWebCam\bin\Debug\AForge.Video.DirectShow.dll
+c:\users\leowin\documents\visual studio 2013\Projects\EasyWebCam\EasyWebCam\bin\Debug\AForge.Video.dll
+c:\users\leowin\documents\visual studio 2013\Projects\EasyWebCam\EasyWebCam\bin\Debug\AForge.xml
+c:\users\leowin\documents\visual studio 2013\Projects\EasyWebCam\EasyWebCam\bin\Debug\AForge.Video.xml
+c:\users\leowin\documents\visual studio 2013\Projects\EasyWebCam\EasyWebCam\bin\Debug\AForge.Video.DirectShow.xml
+c:\users\leowin\documents\visual studio 2013\Projects\EasyWebCam\EasyWebCam\obj\Debug\EasyWebCam.csprojResolveAssemblyReference.cache
+c:\users\leowin\documents\visual studio 2013\Projects\EasyWebCam\EasyWebCam\obj\Debug\EasyWebCam.Form1.resources
+c:\users\leowin\documents\visual studio 2013\Projects\EasyWebCam\EasyWebCam\obj\Debug\EasyWebCam.Properties.Resources.resources
+c:\users\leowin\documents\visual studio 2013\Projects\EasyWebCam\EasyWebCam\obj\Debug\EasyWebCam.csproj.GenerateResource.Cache
+c:\users\leowin\documents\visual studio 2013\Projects\EasyWebCam\EasyWebCam\obj\Debug\EasyWebCam.exe
+c:\users\leowin\documents\visual studio 2013\Projects\EasyWebCam\EasyWebCam\obj\Debug\EasyWebCam.pdb

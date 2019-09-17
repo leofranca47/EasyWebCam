@@ -1,0 +1,1 @@
+c:\users\leowin\documents\visual studio 2013\Projects\EasyWebCam\EasyWebCam\bin\Release\EasyWebCam.exe.config
